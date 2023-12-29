@@ -1,0 +1,8 @@
+torch == 2.0.0
+transformers == 4.31.0
+jupyterlab == 4.0.3
+python-dotenv == 1.0.0
+datasets == 2.14.4
+pandas == 2.0.3
+accelerate == 0.22.0
+lamini == 2.0.4
